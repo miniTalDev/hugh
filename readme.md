@@ -3,7 +3,7 @@ Ask Hugh is a web application that allows you to record audio, transcribe it, an
 
 ### Installation
 1. Clone this repository:
-`git clone https://github.com/IgnoranceAI/hugh.git`
+`git clone https://github.com/miniTalDev/hugh.git`
 
 2. Install the Python packages:
 `pip install -r requirements.txt`
